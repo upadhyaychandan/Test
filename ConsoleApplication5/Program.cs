@@ -16,7 +16,7 @@ namespace ConsoleApplication5
             obj1.print();
             a obj3 = new b();
             obj3.print();
-            obj3.print();
+              obj3.print();
                obj3.print();
 
           //  b obj4 = new a();
